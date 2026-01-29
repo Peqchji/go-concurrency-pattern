@@ -1,5 +1,2 @@
-*.mod
-*.sum
-*.env
-
+go.sum
 main.go
